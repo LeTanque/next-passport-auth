@@ -25,7 +25,7 @@
     "helmet": "^3.21.2",
     "isomorphic-fetch": "^2.2.1",
     "knex": "^0.20.9",
-    "next": "^9.2.1",
+    "next": "^9.3.2",
     "next-compose-plugins": "^2.2.0",
     "node-sass": "^4.13.1",
     "passport": "^0.4.1",
